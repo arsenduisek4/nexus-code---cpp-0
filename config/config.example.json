@@ -1,0 +1,10 @@
+{
+  "api_key": "sk-your-nexus-code-key-here",
+  "base_url": "https://api.nexuscode.ai",
+  "model": "nexus-code",
+  "mode": "agent",
+  "temperature": 0.3,
+  "max_iterations": 0,
+  "auto_approve": false,
+  "log_level": "info"
+}

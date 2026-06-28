@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Nexus Code
+GenericName=Coding Agent
+Comment=Автономный кодинг-агент (C++ Edition)
+Comment[en]=Autonomous coding agent
+Exec=nexus
+Icon=nexus-code
+Terminal=true
+Categories=Development;
+Keywords=ai;agent;code;nexus;coding;assistant;
+StartupNotify=true

@@ -1,0 +1,8 @@
+/home/arskq/важное/nexus-code/build/CMakeFiles/sqlite3.dir
+/home/arskq/важное/nexus-code/build/CMakeFiles/nexus.dir
+/home/arskq/важное/nexus-code/build/CMakeFiles/edit_cache.dir
+/home/arskq/важное/nexus-code/build/CMakeFiles/rebuild_cache.dir
+/home/arskq/важное/nexus-code/build/CMakeFiles/list_install_components.dir
+/home/arskq/важное/nexus-code/build/CMakeFiles/install.dir
+/home/arskq/важное/nexus-code/build/CMakeFiles/install/local.dir
+/home/arskq/важное/nexus-code/build/CMakeFiles/install/strip.dir
